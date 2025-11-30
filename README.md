@@ -1,4 +1,4 @@
-# PowerBi_Sales_dashboard
+# PowerBi_Madhav_Ecommerce_Sales_dashboard
 
 ## 📌 Project Overview
 This Power BI dashboard provides an in-depth analysis of business performance, including sales trends, customer insights, and category-wise patterns.  
@@ -44,20 +44,10 @@ The dataset contains:
 ## 🖼 Dashboard Preview
 <img width="1443" height="808" alt="Screenshot 2025-11-30 195835" src="https://github.com/user-attachments/assets/ce038a3e-784a-4b69-8cea-7a5fa45eb07d" />
 
-
 ## 📂 Files Included
-Madhav-Ecommerce-Sales-Dashboard/
-│── 📁 screenshots/
-│      └── dashboard.png
-│
-│── 📁 pbix-file/
-│      └── Madhav_Ecommerce_Sales.pbix
-│
-│── README.md
-
-- `Microsoft Power BI Desktop Document.pbix` file  
-- Dashboard screenshots  
-- Project Summary PDF  
+- `Madhav ecommerce sales dashboard.pbix` file  
+- Dashboard screenshot 
+- Project Summary file.   
 - README.md
 
 ---
