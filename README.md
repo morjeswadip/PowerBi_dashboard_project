@@ -46,7 +46,16 @@ The dataset contains:
 
 
 ## 📂 Files Included
-- `.pbix` file  
+Madhav-Ecommerce-Sales-Dashboard/
+│── 📁 screenshots/
+│      └── dashboard.png
+│
+│── 📁 pbix-file/
+│      └── Madhav_Ecommerce_Sales.pbix
+│
+│── README.md
+
+- `Microsoft Power BI Desktop Document.pbix` file  
 - Dashboard screenshots  
 - Project Summary PDF  
 - README.md
