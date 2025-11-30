@@ -41,16 +41,25 @@ The dataset contains:
 - Publishing a clean, presentation-friendly dashboard
 
 
+## 🖼 Dashboard Preview
+<img width="1443" height="808" alt="Screenshot 2025-11-30 195835" src="https://github.com/user-attachments/assets/ce038a3e-784a-4b69-8cea-7a5fa45eb07d" />
+
+
 ## 📂 Files Included
 - `.pbix` file  
 - Dashboard screenshots  
 - Project Summary PDF  
-- README.md  
+- README.md
 
 ---
-
 ## 👨‍💻 About Me
 I am an aspiring **Data Analyst** skilled in Power BI, Excel, and Data Visualization.  
 This is my first step toward building a strong analytics portfolio.
 
+ ---
+ <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+ **Swadip Morje**
+ ## Email : morjeswadip@gmail.com
+ ## [LinkedIn](https://www.linkedin.com/in/swadip-morje-84a0ab397/)
 Connect with me for more projects! 🚀
