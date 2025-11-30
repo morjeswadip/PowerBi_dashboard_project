@@ -1,4 +1,4 @@
-# PowerBi_dashboard_project
+# PowerBi_Sales_dashboard
 
 ## 📌 Project Overview
 This Power BI dashboard provides an in-depth analysis of business performance, including sales trends, customer insights, and category-wise patterns.  
